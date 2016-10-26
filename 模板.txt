@@ -1,0 +1,25 @@
+DELIMITER $$
+
+USE `hr_cloud_dev`$$
+
+DROP PROCEDURE IF EXISTS ``$$
+
+CREATE DEFINER=`liyanying`@`%` PROCEDURE ``(
+    
+)
+BEGIN
+/*
+存储过程名：
+创建人：李艳莹
+创建日期：2016-10-
+功能描述：
+传入参数：
+	
+返回参数： 
+	retCode：  
+	  
+*/
+	
+    END$$
+
+DELIMITER ;
